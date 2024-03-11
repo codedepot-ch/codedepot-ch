@@ -1,4 +1,4 @@
-# Codedepot-ch 
+# CodedepotAI 
 
 ## Welcome to the CodeDepot Public repository!
 
@@ -8,11 +8,11 @@ This is the official public repository for CodeDepot, dedicated to tracking and 
 
 - **Transparent Communication & Issue Tracking**: This space is where customers can report issues with CodeDepot products, with each issue being diligently tracked and addressed by our team.
 
-- **Community Engagement**: Engage with the community in [Discussions](https://github.com/codedepot-ch/codedepot-ch/discussions). This platform facilitates discussions about new features, announcements, Q&A, and more, serving as a vibrant community channel.
+- **Community Engagement**: Engage with the community in [Discussions](https://github.com/codedepotai/codedepotai/discussions). This platform facilitates discussions about new features, announcements, Q&A, and more, serving as a vibrant community channel.
 
 ### Community Discussions
 
-In addition to issue tracking, this repository hosts community discussions --> [Discussions](https://github.com/codedepot-ch/codedepot-ch/discussions). Here’s how you can engage:
+In addition to issue tracking, this repository hosts community discussions --> [Discussions](https://github.com/codedepotai/codedepotai/discussions). Here’s how you can engage:
 
 1. **Ideas & Feature Requests**: Share your ideas for new features or improvements. It's a great way to contribute to the shaping of CodeDepot products.
 
@@ -28,7 +28,7 @@ To report an issue, please follow these steps:
 
 1. **Check Existing Issues**: Before posting a new issue, please review existing issues to avoid duplicates.
    
-2. **Create a New Issue**: If your issue is new, create it by clicking the **[New Issue](https://github.com/codedepot-ch/codedepot-ch/issues/new)** button. Please include:
+2. **Create a New Issue**: If your issue is new, create it by clicking the **[New Issue](https://github.com/codedepotai/codedepotai/issues/new)** button. Please include:
    - A concise and descriptive title.
    - A detailed description of the issue, including steps to reproduce, expected outcomes, and actual outcomes.
    - Attach screenshots, error messages, logs, or any other relevant documents, if possible.
